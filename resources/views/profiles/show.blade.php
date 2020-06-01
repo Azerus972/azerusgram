@@ -3,6 +3,7 @@ Author : https://www.kmarous.fr
 Mail : developer@mybestplace.fr
 -->
 
+
 @extends('layouts.app')
 
 @section('content')
