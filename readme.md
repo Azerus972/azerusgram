@@ -8,7 +8,18 @@ The structure will be detailed soon.
 
 ## How to lunch the project
 
-Soon
+Create a new .env file and write your database access 
+
+go into the repo you've just cloned.
+
+run theses commands :
+
+composer install
+
+php artisan key:generate
+
+php artisan serve
+
 
 ## How to download release 
 
