@@ -19,6 +19,6 @@ Just go into the release section and download the lastest available ;)
 
 Still in development at the moment you can setup, and after install acces to a user profile with this route :
 
-localhost/profiles/{username}
+localhost/profiles/{user}
 
 Warning a username must be created to get a result.
