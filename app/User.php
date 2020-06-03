@@ -42,8 +42,14 @@ class User extends Authenticatable
         return 'username';
     }
 
+    //create a  profile function
     public function profile()
     {
         return $this->hasOne('App\Profile');
+    }
+
+    public function posts()
+    {
+        return $this->hasMany('App\Post')->orderBy('created_at', 'DESC');
     }
 }
