@@ -2,6 +2,8 @@
 
 This is an instagram like web app build with **Laravel** and **VueJs**.
 
+Still working on it on my free-time so check the project once a month new features will come ;)
+
 
 # Files
 The structure will be detailed soon.
